@@ -1,6 +1,10 @@
 # Depthy MCP Server
 
+[![YellowMCP Reliability](https://yellowmcp.com/api/v1/servers/depthy/badge)](https://yellowmcp.com/servers/depthy)
+
 MCP server that gives AI assistants access to real-time crypto market structure data from [Depthy](https://depthy.io) — order book depth, liquidity walls, liquidation clusters, and Polymarket signals.
+
+**Remote endpoint:** `https://depthy.io/mcp/sse`
 
 ## Quick Start
 
